@@ -1,6 +1,6 @@
 # yusijin02's Blogs
 
-<a href="https://yusijin02.github.io/">My Page</a> | <a href="https://github.com/yusijin02">GitHub</a>
+<a href="https://yusijin02.github.io/">My Page</a> | <a href="https://github.com/yusijin02">GitHub</a> | <a href="cite.txt">Cite</a>
 
 ## [论文笔记] 计算机视觉
 
