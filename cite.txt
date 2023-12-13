@@ -1,6 +1,6 @@
 @misc{GitHub.io,
-howpublished = {[EB/OL]},
-note = {\url{https://yusijin02.github.io/blogs-notes/}},
-title = {yusijin02's Blogs},
-author = {Sijin Yu}
+    howpublished = {[EB/OL]},
+    note = {\url{https://yusijin02.github.io/blogs-notes/}},
+    title = {yusijin02's Blogs},
+    author = {Sijin Yu}
 }
