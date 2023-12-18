@@ -4,6 +4,8 @@
 
 ## [论文笔记] 计算机视觉
 
+##### [图像生成] <a href="https://yusijin02.github.io/notes-RCG/">RCG: 无条件引导的扩散生成模型</a> (2023.12.18)
+
 #####  [序列自回归通用大视觉模型] <a href="https://yusijin02.github.io/notes-LVM/">LVM: 纯视觉的通用大模型, CV的GPT时刻?</a> (2023.12.13)
 
 ##### [视频理解] <a href="https://yusijin02.github.io/notes-Uniformers/">UniFormers: 使用多头关系聚合器 (MHRA) 的视频理解模型</a> (2023.12.13)
