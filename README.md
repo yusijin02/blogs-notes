@@ -20,6 +20,8 @@
 
 ## [论文笔记] 医学类
 
+##### [脑视觉解码] <a href="https://yusijin02.github.io/notes-MindVideo/">视频解码的开山鼻祖? MindVideo. NIPS 2023 Oral!</a> (2023.12.22)
+
 ##### [MRI脑肿瘤分割] <a href="https://yusijin02.github.io/notes-SwinUNETR/">Swin UNETR: 使用三维滑窗的三维分割模型</a> (2023.12.13)
 
 ##### [论文串烧] <a href="https://yusijin02.github.io/notes-ICCV2023-large-medical-model/">ICCV 2023 医学大模型</a> (2023.12.13)
