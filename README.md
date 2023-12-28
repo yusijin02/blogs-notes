@@ -20,7 +20,7 @@
 
 ## [论文笔记] 医学类
 
-##### [NIPS 2023] [视觉脑解码] <a>使用对比学习和跨模态互注意力预训练 fMRI Encoder 并进行图像重建.</a> (2023.12.18)
+##### [NIPS 2023] [视觉脑解码] <a href="https://yusijin02.github.io/notes-vis_dec/">使用对比学习和跨模态互注意力预训练 fMRI Encoder 并进行图像重建.</a> (2023.12.18)
 
 ##### [NIPS 2023] [脑视觉解码] <a href="https://yusijin02.github.io/notes-MindVideo/">视频解码的开山鼻祖? MindVideo! [Oral]</a> (2023.12.22)
 
