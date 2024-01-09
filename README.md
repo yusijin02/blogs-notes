@@ -2,7 +2,9 @@
 
 <a href="https://yusijin02.github.io/">My Page</a> | <a href="https://github.com/yusijin02">GitHub</a> | <a href="cite.txt">Cite</a>
 
-## [论文笔记] 计算机视觉
+## <font color=MediumPurple>[论文笔记]</font> 计算机视觉
+
+##### <font color=Coral>[AAAI'24]</font> [图像生成] <a href="https://yusijin02.github.io/notes-T2IAdapter/">T2I-Adapter: 强语义引导的图像扩散</a> (2024.01.09)
 
 ##### <font color=Coral>[ICCV'23]</font> [视频生成] <a href="https://yusijin02.github.io/notes-tuneavideo/">Tune-A-Video: Text2Video的新SOTA</a> (2024.01.09)
 
@@ -20,11 +22,11 @@
 
 
 
-## [论文笔记] 医学类
-
-##### <font color=Coral>[NIPS'23]</font> [视觉脑解码] <a href="https://yusijin02.github.io/notes-vis_dec/">使用对比学习和跨模态互注意力预训练 fMRI Encoder 并进行图像重建.</a> (2023.12.18)
+## <font color=MediumPurple>[论文笔记]</font> 医学类
 
 ##### <font color=Coral>[NIPS'23]</font> [脑视觉解码] <a href="https://yusijin02.github.io/notes-MindVideo/">视频解码的开山鼻祖? MindVideo! [Oral]</a> (2023.12.22)
+
+##### <font color=Coral>[NIPS'23]</font> [视觉脑解码] <a href="https://yusijin02.github.io/notes-vis_dec/">使用对比学习和跨模态互注意力预训练 fMRI Encoder 并进行图像重建.</a> (2023.12.18)
 
 ##### <font color=Coral>[CVPR'22]</font> [MRI脑肿瘤分割] <a href="https://yusijin02.github.io/notes-SwinUNETR/">Swin UNETR: 使用三维滑窗的三维分割模型</a> (2023.12.13)
 
@@ -36,6 +38,6 @@
 
 
 
-## [数学笔记] 一些有趣的数学概念
+## <font color=MediumPurple>[数学笔记]</font> 一些有趣的数学概念
 
 ##### [离散概率论] <a href="https://yusijin02.github.io/notes-DS-evidence-theory/">DS 证据理论: 可能用于多模态的模态融合?</a> (2023.12.13)
