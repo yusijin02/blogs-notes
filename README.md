@@ -24,6 +24,8 @@
 
 ## <font color=MediumPurple>[论文笔记]</font> 医学类
 
+##### <font color=Coral>[WACV'24]</font> [脑视觉解码] <a href="https://yusijin02.github.io/notes-DREAM/">DREAM: 仿生(人类视觉系统)的条件Diffusion用于图像重建</a> (2024.01.10)
+
 ##### <font color=Coral>[NIPS'23]</font> [脑视觉解码] <a href="https://yusijin02.github.io/notes-MindVideo/">视频解码的开山鼻祖? MindVideo! [Oral]</a> (2023.12.22)
 
 ##### <font color=Coral>[NIPS'23]</font> [视觉脑解码] <a href="https://yusijin02.github.io/notes-vis_dec/">使用对比学习和跨模态互注意力预训练 fMRI Encoder 并进行图像重建.</a> (2023.12.18)
